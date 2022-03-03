@@ -1,5 +1,5 @@
 var a = 40;
-var b = 50;
+var b = 40;
 
 if (a > b) {
   console.log("A is getter than B");
@@ -9,7 +9,7 @@ if (a > b) {
   console.log("B is getter than A");
 }
 
-var n = 2;
+var n = 0;
 
 if (n == 0) {
   console.log("The Number is zero");
