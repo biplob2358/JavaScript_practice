@@ -17,3 +17,4 @@ if (n % 2 != 0) {
   console.log("B is odd number");
 }
 console.log("Biplob Ghosh");
+console.log("DIU");
