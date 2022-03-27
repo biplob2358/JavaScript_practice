@@ -13,3 +13,4 @@ console.log(date.getMinutes());
 console.log(date.getSeconds());
 
 console.log("Biplob");
+console.log("DIU");
