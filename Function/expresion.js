@@ -10,3 +10,4 @@ var addition = function (a, b) {
 
 var another = addition;
 console.log(another(3, 3));
+console.log(another(3, 9));
