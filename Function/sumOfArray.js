@@ -14,3 +14,4 @@ sumOfArray(arr1);
 sumOfArray(arr2);
 sumOfArray(arr3);
 console.log("Biplob Ghosh");
+console.log("DIU");
